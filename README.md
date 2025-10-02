@@ -12,8 +12,6 @@ The project involves:
 * Plotting the error signals between the WDF outputs and the reference signals for different sampling frequencies (Fs = 192 kHz / 4, Fs = 192 kHz / 3, Fs = 192 kHz / 2).
 * Providing answers to theoretical questions regarding accuracy, sampling rate effects, computability with nonlinear elements, and alternative discretization methods (e.g., Backward Euler for inductors).
 
-The repository includes the base MATLAB script (`HW4CrossoverNetWDF.m`) and the required audio files.
-
 > The WDF scheme are designed to minimize computational complexity while ensuring stability and explicit computability.
 
 **Authors:** Chiara Lunghi, Alice Portentoso
